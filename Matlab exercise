@@ -1,0 +1,10 @@
+//Exercise 3.4
+function y=bijao(a,b)
+max=a;
+if max<b
+  max=b;
+end
+if a=b
+  disp('They are equal!');
+end
+max
