@@ -5,3 +5,26 @@ c=fix(b/12);
 inchs=mod(b,12)  %输出的inchs值
 feet=mod(c,3)    %输出的feet值
 yards=fix(c/3)   %输出的yards值
+
+
+
+
+
+%命令行窗口代码：
+>> Exercise4_3
+Please input m
+3.51
+
+inchs =
+
+    6.1887
+
+
+feet =
+
+     2
+
+
+yards =
+
+     3
