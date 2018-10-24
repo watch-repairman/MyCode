@@ -1,0 +1,7 @@
+#include <stdio> %abc
+int main (void) %sdf
+
+print! hello world.
+%cdf
+
+end
